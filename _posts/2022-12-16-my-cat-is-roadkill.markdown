@@ -6,4 +6,4 @@ categories: cat roadkill
 ---
 Proof:
 
-![cat that is roadkill](/assets/roadkill.png)
+![cat that is roadkill](/assets/roadkill.jpg)

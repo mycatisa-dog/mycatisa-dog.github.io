@@ -6,4 +6,4 @@ categories: cat dog
 ---
 Proof:
 
-![dog that is not a dog](/assets/dog.png)
+![dog that is not a dog](/assets/dog.jpg)
